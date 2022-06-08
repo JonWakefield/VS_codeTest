@@ -9,6 +9,8 @@ from ModuleFeeder import capture_images
     with manual interference.'''
 
 
+# NOTE this is for testing.
+
 
 # define camera parameters:
 # NOTE: all camera parameters have pre-defined values. Change only to fit user specifications.
